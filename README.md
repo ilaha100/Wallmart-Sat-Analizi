@@ -1,4 +1,6 @@
 # Walmart Satış Məlumatlarının Analizi - Market Basket Analizi
+![Description of Image](assets/Ekran%20şəkli%202024-11-14%20155324.png)
+
 
 Bu layihədə, Walmart satış məlumatlarını **Market Basket Analizi** üzərində diqqət mərkəzində saxlayaraq analiz edirik. Məqsəd məhsul assosiasiyalarını, populyar məhsul kombinasiyalarını və satış nümunələrini həftənin günü və günün saatına əsasən təyin etməkdir. Analiz aşağıdakı üç əsas hissədən ibarətdir:
 
